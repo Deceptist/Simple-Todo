@@ -1,2 +1,2 @@
-# Simple-Todo
-A pretty simple todo list made in HTML, CSS and JS.
+# ✔️ Simple-Todo ✔️
+A pretty simple todo list made in html, css and javascript.
